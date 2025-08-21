@@ -1,4 +1,4 @@
-# 📚 Bookstore API (Spring Data JPA)
+# 📚 Email API (Spring Data JPA)
 
 A simple microservice built with **Java, Spring Boot, PostgreSQL, and RabbitMQ**.  
 It provides a REST endpoint to create users and sends a confirmation email using **Gmail SMTP**.  
